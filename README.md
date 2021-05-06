@@ -1,0 +1,2 @@
+# msixappattachcatalog
+MSIX repackaged applications
